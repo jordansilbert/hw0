@@ -1,0 +1,55 @@
+html, body {
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F1F0FF;
+    font-family: Ovo, serif;
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+}
+
+#banner {
+    margin: auto;
+    text-align: center;
+    background-color: #C3C3E5;
+    color: mediumpurple;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    color: #443266;
+}
+
+#nav_bar {
+    text-align: center;
+    font-size: 1em;
+}
+
+ul {
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+a:link {
+    background-color: #6D7993;
+    color: white;
+}
+
+a:hover {
+    background-color: #6D7993; opacity: 0.5;
+    color: white;
+}
